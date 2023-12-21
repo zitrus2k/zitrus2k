@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zitrus2k
-- 👀 I’m interested in Creating Games and Programmin
+- 👀 I’m interested in Creating Games and Programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me simonvphilipp@gmail.com
