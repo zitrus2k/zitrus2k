@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zitrus2k
 - 👀 I’m interested in Creating Games and Software
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me zitrus2k@gmail.com
