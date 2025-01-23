@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zitrus2k
-- 👀 I’m interested in Creating Websites and Computer Software
+- 👀 I’m interested in Creating Websites, Software and simple Game Modifications!
 - 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me zitrus2k@gmail.com
